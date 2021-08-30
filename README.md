@@ -1,1 +1,1 @@
-Ejercicio coleccion de Vinilos
+ejercicio vinilos
